@@ -8,9 +8,9 @@
 7. [Golang 语言怎么实现访问流量限流?](https://mp.weixin.qq.com/s/8f9GrnfoBNnix8ZqdGs4lA)
 8. Golang 语言日志切割库 lumberjack 怎么使用？
 9. Golang 怎么使用 fsnotify 实现配置热更新？
-10. Golang 链路追踪系统 Jaeger 怎么使用？
-11. Golang 语言怎么操作 memcached？
-12. Golang 语言怎么操作 mongodb？
-13. Golang 语言怎么操作 elasticsearch？
-14. Golang 语言怎么操作 kafka？
-15. Golang 语言怎么操作 etcd？
+10. Golang 语言怎么操作 elasticsearch？
+11. Golang 语言怎么操作 kafka？
+12. Golang 语言怎么操作 etcd？
+13. Golang 语言怎么操作 memcached？
+14. Golang 语言怎么操作 mongodb？
+15. Golang 链路追踪系统 Jaeger 怎么使用？
