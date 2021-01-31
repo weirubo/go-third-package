@@ -1,4 +1,4 @@
-module lesson06
+module lesson07
 
 go 1.15
 
