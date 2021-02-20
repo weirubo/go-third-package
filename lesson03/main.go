@@ -7,7 +7,7 @@ import (
 	"github.com/spf13/viper"
 )
 
-// Viper
+// viper
 
 type ServerSetting struct {
 	RunMode      string
