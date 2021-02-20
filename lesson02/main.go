@@ -1,5 +1,7 @@
 package main
 
+// Wire
+
 import (
 	"errors"
 	"fmt"
@@ -23,9 +25,9 @@ func NewMessage(phrase string) Message {
 	return Message(phrase)
 }
 
-type Greeter  struct {
+type Greeter struct {
 	Message Message
-	Grumpy bool
+	Grumpy  bool
 }
 
 func (g Greeter) Greet() Message {
@@ -41,7 +43,7 @@ func (g Greeter) Greet() Message {
 // 通过使用参数指定依赖项，返回一个 Greeter，依赖一个 Message
 func NewGreeter(m Message) Greeter {
 	var grumpy bool
-	if time.Now().Unix() % 2 == 0 {
+	if time.Now().Unix()%2 == 0 {
 		grumpy = true
 	}
 	return Greeter{Message: m, Grumpy: grumpy}
@@ -70,7 +72,7 @@ func (e Event) Start() {
 	fmt.Println(msg)
 }
 
-func main () {
+func main() {
 	// message := NewMessage()
 	// greeter := NewGreeter(message)
 	// event := NewEvent(greeter)
