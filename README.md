@@ -11,7 +11,7 @@
 10. [Golang 语言怎么实现访问流量限流?](https://mp.weixin.qq.com/s/8f9GrnfoBNnix8ZqdGs4lA)
 11. Golang 链路追踪系统 Jaeger 怎么使用？
 12. Golang 语言怎么操作 elasticsearch？
-13. Golang 语言怎么操作 kafka？
+13. [Golang 语言怎么操作 kafka？](https://mp.weixin.qq.com/s/T3dWcf5v1cWMdNbsK3_w2A)
 14. Golang 语言怎么操作 etcd？
 15. Golang 语言怎么操作 memcached？
 16. Golang 语言怎么操作 mongodb？
