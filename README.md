@@ -15,3 +15,4 @@
 14. Golang 语言怎么操作 etcd？
 15. Golang 语言怎么操作 memcached？
 16. Golang 语言怎么操作 mongodb？
+17. [Golang 语言怎么操作 nsq？](https://mp.weixin.qq.com/s/rtp933YYX2vXfsMxtCBp8g)
