@@ -1,0 +1,13 @@
+user_data:
+  uid: 10000
+  uname: "frank"
+  other_info:
+    email: "gopher@email.cn"
+    address: "Beijing China"
+  language:
+    - name: "go"
+      score: 90
+    - name: "php"
+      score: 95
+    - name: "JavaScript"
+      score: 80
