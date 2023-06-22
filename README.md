@@ -17,3 +17,4 @@
 16. Golang 语言怎么操作 mongodb？
 17. [Golang 语言怎么操作 nsq？](https://mp.weixin.qq.com/s/rtp933YYX2vXfsMxtCBp8g)
 18. [Go 框架 Gin 怎么实现允许前端跨域请求？](https://mp.weixin.qq.com/s/GFX3sAgZqrxsGamJT-s4-g)
+19. [Go 配置管理库 Viper 怎么读取结构体嵌套的配置信息？](https://mp.weixin.qq.com/s/BxKoRUTMzowo6bJ3LeRSNA)
